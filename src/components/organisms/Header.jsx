@@ -1,11 +1,11 @@
 import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import { motion, AnimatePresence } from "framer-motion";
+import { AnimatePresence, motion } from "framer-motion";
+import { useCart } from "@/hooks/useCart";
 import { cn } from "@/utils/cn";
 import ApperIcon from "@/components/ApperIcon";
 import Button from "@/components/atoms/Button";
 import SearchBar from "@/components/molecules/SearchBar";
-import { useCart } from "@/hooks/useCart";
 
 const Header = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -39,17 +39,17 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           {/* Logo */}
+{/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <div className="bg-gradient-to-r from-primary-500 to-primary-600 rounded-lg p-2">
               <ApperIcon name="ShoppingBag" size={24} className="text-white" />
             </div>
             <span className="text-2xl font-bold bg-gradient-to-r from-primary-600 to-primary-700 bg-clip-text text-transparent">
-              ShopFlow
+              SimpleStore
             </span>
           </Link>
 
           {/* Desktop Navigation */}
-          <nav className="hidden lg:flex items-center space-x-8">
             {categories.map((category) => (
               <Link
                 key={category.name}

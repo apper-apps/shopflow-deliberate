@@ -56,9 +56,9 @@ const Footer = () => {
             <Link to="/" className="flex items-center space-x-2 mb-4">
               <div className="bg-gradient-to-r from-primary-500 to-primary-600 rounded-lg p-2">
                 <ApperIcon name="ShoppingBag" size={24} className="text-white" />
-              </div>
+</div>
               <span className="text-xl font-bold bg-gradient-to-r from-primary-600 to-primary-700 bg-clip-text text-transparent">
-                ShopFlow
+                SimpleStore
               </span>
             </Link>
             <p className="text-secondary-600 mb-6 leading-relaxed">
@@ -104,55 +104,10 @@ const Footer = () => {
           ))}
         </div>
 
-        {/* Trust Badges */}
-        <div className="border-t border-secondary-200 mt-12 pt-8">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <div className="flex items-center gap-3 p-4 bg-secondary-50 rounded-lg">
-              <div className="bg-green-100 rounded-full p-2">
-                <ApperIcon name="Truck" size={20} className="text-green-600" />
-              </div>
-              <div>
-                <p className="font-medium text-secondary-900 text-sm">Free Shipping</p>
-                <p className="text-xs text-secondary-600">On orders over $50</p>
-              </div>
-            </div>
-            
-            <div className="flex items-center gap-3 p-4 bg-secondary-50 rounded-lg">
-              <div className="bg-blue-100 rounded-full p-2">
-                <ApperIcon name="RotateCcw" size={20} className="text-blue-600" />
-              </div>
-              <div>
-                <p className="font-medium text-secondary-900 text-sm">Easy Returns</p>
-                <p className="text-xs text-secondary-600">30-day policy</p>
-              </div>
-            </div>
-            
-            <div className="flex items-center gap-3 p-4 bg-secondary-50 rounded-lg">
-              <div className="bg-purple-100 rounded-full p-2">
-                <ApperIcon name="Shield" size={20} className="text-purple-600" />
-              </div>
-              <div>
-                <p className="font-medium text-secondary-900 text-sm">Secure Payment</p>
-                <p className="text-xs text-secondary-600">SSL encrypted</p>
-              </div>
-            </div>
-            
-            <div className="flex items-center gap-3 p-4 bg-secondary-50 rounded-lg">
-              <div className="bg-orange-100 rounded-full p-2">
-                <ApperIcon name="Headphones" size={20} className="text-orange-600" />
-              </div>
-              <div>
-                <p className="font-medium text-secondary-900 text-sm">24/7 Support</p>
-                <p className="text-xs text-secondary-600">Always here to help</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        {/* Bottom Footer */}
-        <div className="border-t border-secondary-200 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
+{/* Bottom Footer */}
+        <div className="border-t border-secondary-200 mt-12 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-secondary-600 text-sm">
-            © 2024 ShopFlow. All rights reserved.
+            © 2024 SimpleStore. All rights reserved.
           </p>
           
           {/* Social Links */}

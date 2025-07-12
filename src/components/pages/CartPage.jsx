@@ -196,29 +196,7 @@ const CartPage = () => {
                   </Button>
                 </Link>
               </div>
-
-              {/* Trust Badges */}
-              <div className="grid grid-cols-3 gap-3 mt-6 pt-6 border-t border-secondary-200">
-                <div className="text-center">
-                  <div className="bg-green-100 rounded-full w-10 h-10 flex items-center justify-center mx-auto mb-2">
-                    <ApperIcon name="Shield" size={16} className="text-green-600" />
-                  </div>
-                  <span className="text-xs text-secondary-600">Secure</span>
-                </div>
-                <div className="text-center">
-                  <div className="bg-blue-100 rounded-full w-10 h-10 flex items-center justify-center mx-auto mb-2">
-                    <ApperIcon name="Truck" size={16} className="text-blue-600" />
-                  </div>
-                  <span className="text-xs text-secondary-600">Fast Ship</span>
-                </div>
-                <div className="text-center">
-                  <div className="bg-purple-100 rounded-full w-10 h-10 flex items-center justify-center mx-auto mb-2">
-                    <ApperIcon name="RotateCcw" size={16} className="text-purple-600" />
-                  </div>
-                  <span className="text-xs text-secondary-600">Returns</span>
-                </div>
-              </div>
-            </div>
+</div>
           </motion.div>
         </div>
       </div>
