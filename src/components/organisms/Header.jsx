@@ -47,9 +47,10 @@ const Header = () => {
             <span className="text-2xl font-bold bg-gradient-to-r from-primary-600 to-primary-700 bg-clip-text text-transparent">
               SimpleStore
             </span>
-          </Link>
+</Link>
 
           {/* Desktop Navigation */}
+          <nav className="hidden lg:flex items-center space-x-6">
             {categories.map((category) => (
               <Link
                 key={category.name}
