@@ -37,11 +37,11 @@ const FilterSidebar = ({
 
       {/* Clear Filters */}
       <div className="pt-4 border-t border-secondary-200">
-        <Button
+<Button
           variant="outline"
           onClick={() => {
             onCategoryChange("all");
-            onPriceChange({ min: 0, max: 1000 });
+            onPriceChange({ min: 0, max: 300 });
           }}
           className="w-full"
         >

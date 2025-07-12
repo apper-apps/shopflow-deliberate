@@ -14,7 +14,7 @@ const CategoryFilter = ({ categories, selectedCategory, onCategoryChange, classN
         >
           All Products
         </Button>
-        {categories.map((category) => (
+{categories.map((category) => (
           <Button
             key={category}
             variant={selectedCategory === category ? "primary" : "ghost"}

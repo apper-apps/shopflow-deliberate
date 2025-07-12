@@ -1,36 +1,10 @@
 [
   {
     "Id": 1,
-    "name": "Wireless Bluetooth Headphones",
-    "price": 79.99,
-    "originalPrice": 99.99,
-    "category": "electronics",
-    "description": "Premium wireless headphones with active noise cancellation, 30-hour battery life, and crystal-clear audio quality. Perfect for music lovers and professionals.",
-    "images": [
-      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=600&h=600&fit=crop"
-    ],
-    "inStock": true
-  },
-  {
-    "Id": 2,
-    "name": "Smart Fitness Watch",
-    "price": 199.99,
-    "category": "electronics",
-    "description": "Advanced fitness tracking with heart rate monitoring, GPS, sleep tracking, and 7-day battery life. Water resistant up to 50 meters.",
-    "images": [
-      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1544117519-31a4b719223d?w=600&h=600&fit=crop"
-    ],
-    "inStock": true
-  },
-  {
-    "Id": 3,
     "name": "Premium Cotton T-Shirt",
     "price": 24.99,
     "originalPrice": 34.99,
-    "category": "clothing",
+    "category": "shirts",
     "description": "Ultra-soft 100% organic cotton t-shirt with a comfortable fit. Available in multiple colors and sizes. Perfect for casual wear.",
     "images": [
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&h=600&fit=crop",
@@ -39,70 +13,35 @@
     "inStock": true
   },
   {
-    "Id": 4,
-    "name": "Laptop Stand with Cooling",
-    "price": 49.99,
-    "category": "electronics",
-    "description": "Adjustable aluminum laptop stand with built-in cooling fan. Ergonomic design to reduce neck strain and improve airflow.",
-    "images": [
-      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&h=600&fit=crop"
-    ],
-    "inStock": false
-  },
-  {
-    "Id": 5,
-    "name": "Ceramic Plant Pot Set",
-    "price": 34.99,
-    "category": "home",
-    "description": "Beautiful set of 3 ceramic plant pots with drainage holes and saucers. Perfect for indoor plants and herbs. Modern minimalist design.",
-    "images": [
-      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=600&fit=crop"
-    ],
-    "inStock": true
-  },
-  {
-    "Id": 6,
-    "name": "Running Shoes",
+    "Id": 2,
+    "name": "Classic White Dress Shirt",
     "price": 89.99,
-    "originalPrice": 120.00,
-    "category": "sports",
-    "description": "Lightweight running shoes with advanced cushioning technology. Breathable mesh upper and durable rubber outsole for all-terrain running.",
+    "category": "shirts",
+    "description": "Professional white dress shirt with French cuffs. Perfect for business meetings and formal occasions. Wrinkle-resistant fabric.",
     "images": [
-      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?w=600&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1603252109360-909baaf261c7?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=600&h=600&fit=crop"
     ],
     "inStock": true
   },
   {
-    "Id": 7,
-    "name": "Coffee Table Book Collection",
-    "price": 45.99,
-    "category": "books",
-    "description": "Beautiful collection of photography and art books. Perfect for coffee tables and inspiring conversations. High-quality printing and binding.",
+    "Id": 3,
+    "name": "Slim Fit Dark Jeans",
+    "price": 79.99,
+    "originalPrice": 99.99,
+    "category": "pants",
+    "description": "Modern slim-fit dark wash jeans with stretch comfort. Classic five-pocket styling with premium denim construction.",
     "images": [
-      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=600&h=600&fit=crop"
     ],
     "inStock": true
   },
   {
-    "Id": 8,
-    "name": "Wireless Charging Pad",
-    "price": 29.99,
-    "category": "electronics",
-    "description": "Fast wireless charging pad compatible with all Qi-enabled devices. Sleek design with LED indicator and overcharge protection.",
-    "images": [
-      "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=600&h=600&fit=crop"
-    ],
-    "inStock": true
-  },
-  {
-    "Id": 9,
+    "Id": 4,
     "name": "Denim Jacket",
-    "price": 59.99,
-    "category": "clothing",
+    "price": 129.99,
+    "category": "jackets",
     "description": "Classic denim jacket with a modern fit. Made from premium denim with subtle distressing. Perfect for layering in any season.",
     "images": [
       "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?w=600&h=600&fit=crop",
@@ -111,82 +50,148 @@
     "inStock": true
   },
   {
-    "Id": 10,
-    "name": "Kitchen Knife Set",
-    "price": 79.99,
-    "originalPrice": 99.99,
-    "category": "home",
-    "description": "Professional 6-piece kitchen knife set with wooden block. High-carbon stainless steel blades with ergonomic handles.",
+    "Id": 5,
+    "name": "Leather Oxford Shoes",
+    "price": 149.99,
+    "category": "shoes",
+    "description": "Handcrafted leather oxford shoes with Goodyear welt construction. Perfect for business or formal occasions.",
     "images": [
-      "https://images.unsplash.com/photo-1593618998160-e34014e67546?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1582897085656-c636d006a246?w=600&h=600&fit=crop"
+    ],
+    "inStock": true
+  },
+  {
+    "Id": 6,
+    "name": "Merino Wool Sweater",
+    "price": 89.99,
+    "originalPrice": 119.99,
+    "category": "shirts",
+    "description": "Cozy merino wool sweater with cable knit pattern. Soft, warm, and breathable. Perfect for cold weather styling.",
+    "images": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=600&h=600&fit=crop"
+    ],
+    "inStock": true
+  },
+  {
+    "Id": 7,
+    "name": "Chino Pants",
+    "price": 59.99,
+    "category": "pants",
+    "description": "Versatile cotton chino pants in classic khaki. Perfect for business casual or weekend wear. Comfortable stretch fabric.",
+    "images": [
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=600&h=600&fit=crop"
+    ],
+    "inStock": true
+  },
+  {
+    "Id": 8,
+    "name": "Leather Bomber Jacket",
+    "price": 299.99,
+    "category": "jackets",
+    "description": "Premium leather bomber jacket with ribbed cuffs and hem. Timeless design with modern fit and premium hardware.",
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=600&h=600&fit=crop"
+    ],
+    "inStock": true
+  },
+  {
+    "Id": 9,
+    "name": "White Sneakers",
+    "price": 89.99,
+    "category": "shoes",
+    "description": "Clean white leather sneakers with minimal design. Comfortable cushioned sole perfect for everyday wear.",
+    "images": [
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=600&h=600&fit=crop"
+    ],
+    "inStock": true
+  },
+  {
+    "Id": 10,
+    "name": "Leather Belt",
+    "price": 49.99,
+    "category": "accessories",
+    "description": "Genuine leather belt with classic buckle. Versatile brown color that pairs well with both casual and formal wear.",
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=600&h=600&fit=crop"
     ],
     "inStock": true
   },
   {
     "Id": 11,
-    "name": "Yoga Mat Premium",
+    "name": "Polo Shirt",
     "price": 39.99,
-    "category": "sports",
-    "description": "Non-slip premium yoga mat with extra cushioning. Eco-friendly materials with carrying strap included. Perfect for all yoga practices.",
+    "category": "shirts",
+    "description": "Classic cotton polo shirt with three-button placket. Perfect for golf, business casual, or weekend activities.",
     "images": [
-      "https://images.unsplash.com/photo-1506629905607-0e2fb52b0e54?w=600&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1564859228273-274232fdb516?w=600&h=600&fit=crop"
     ],
     "inStock": true
   },
   {
     "Id": 12,
-    "name": "Programming Guide Book",
-    "price": 32.99,
-    "category": "books",
-    "description": "Comprehensive guide to modern programming languages and best practices. Perfect for beginners and experienced developers alike.",
+    "name": "Dress Pants",
+    "price": 99.99,
+    "category": "pants",
+    "description": "Tailored dress pants in charcoal gray. Wool blend fabric with clean lines perfect for professional settings.",
     "images": [
-      "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=600&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=600&h=600&fit=crop"
     ],
     "inStock": true
   },
   {
     "Id": 13,
-    "name": "Smartphone Camera Lens Kit",
-    "price": 24.99,
-    "category": "electronics",
-    "description": "Professional camera lens kit for smartphones. Includes wide-angle, macro, and fisheye lenses with carrying case.",
+    "name": "Wool Blazer",
+    "price": 199.99,
+    "category": "jackets",
+    "description": "Structured wool blazer in navy blue. Classic two-button design with notched lapels. Perfect for business or formal events.",
     "images": [
-      "https://images.unsplash.com/photo-1512499617640-c2f999943e90?w=600&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=600&h=600&fit=crop"
     ],
     "inStock": true
   },
   {
     "Id": 14,
-    "name": "Wool Sweater",
-    "price": 69.99,
-    "originalPrice": 89.99,
-    "category": "clothing",
-    "description": "Cozy merino wool sweater with cable knit pattern. Soft, warm, and breathable. Perfect for cold weather styling.",
+    "name": "Loafers",
+    "price": 119.99,
+    "originalPrice": 149.99,
+    "category": "shoes",
+    "description": "Slip-on leather loafers with penny strap detail. Comfortable and versatile for both casual and business casual wear.",
     "images": [
-      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=600&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1582897085656-c636d006a246?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=600&h=600&fit=crop"
     ],
     "inStock": true
   },
   {
     "Id": 15,
-    "name": "LED String Lights",
-    "price": 19.99,
-    "category": "home",
-    "description": "Warm white LED string lights perfect for creating ambient lighting. Waterproof design suitable for indoor and outdoor use.",
+    "name": "Watch",
+    "price": 199.99,
+    "category": "accessories",
+    "description": "Classic analog watch with leather strap. Water-resistant with sapphire crystal face. Timeless design for any occasion.",
     "images": [
-      "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=600&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1544117519-31a4b719223d?w=600&h=600&fit=crop"
     ],
     "inStock": true
   },
   {
     "Id": 16,
-    "name": "Basketball",
-    "price": 29.99,
-    "category": "sports",
-    "description": "Official size and weight basketball with premium composite leather. Deep channel design for superior grip and control.",
+    "name": "Henley Shirt",
+    "price": 34.99,
+    "category": "shirts",
+    "description": "Long-sleeve henley shirt in heather gray. Soft cotton blend with button placket. Perfect for layering or wearing alone.",
     "images": [
-      "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=600&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1564859228273-274232fdb516?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?w=600&h=600&fit=crop"
     ],
     "inStock": true
   }

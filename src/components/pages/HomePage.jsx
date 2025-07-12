@@ -218,8 +218,8 @@ const HomePage = () => {
                 message: "Try adjusting your filters or browse all products to find what you're looking for.",
                 actionLabel: "Clear Filters",
                 onAction: () => {
-                  setSelectedCategory("all");
-                  setPriceRange({ min: 0, max: 1000 });
+setSelectedCategory("all");
+                  setPriceRange({ min: 0, max: 300 });
                 }
               }}
             />
