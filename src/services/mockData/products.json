@@ -1,0 +1,193 @@
+[
+  {
+    "Id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "price": 79.99,
+    "originalPrice": 99.99,
+    "category": "electronics",
+    "description": "Premium wireless headphones with active noise cancellation, 30-hour battery life, and crystal-clear audio quality. Perfect for music lovers and professionals.",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=600&h=600&fit=crop"
+    ],
+    "inStock": true
+  },
+  {
+    "Id": 2,
+    "name": "Smart Fitness Watch",
+    "price": 199.99,
+    "category": "electronics",
+    "description": "Advanced fitness tracking with heart rate monitoring, GPS, sleep tracking, and 7-day battery life. Water resistant up to 50 meters.",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1544117519-31a4b719223d?w=600&h=600&fit=crop"
+    ],
+    "inStock": true
+  },
+  {
+    "Id": 3,
+    "name": "Premium Cotton T-Shirt",
+    "price": 24.99,
+    "originalPrice": 34.99,
+    "category": "clothing",
+    "description": "Ultra-soft 100% organic cotton t-shirt with a comfortable fit. Available in multiple colors and sizes. Perfect for casual wear.",
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&h=600&fit=crop"
+    ],
+    "inStock": true
+  },
+  {
+    "Id": 4,
+    "name": "Laptop Stand with Cooling",
+    "price": 49.99,
+    "category": "electronics",
+    "description": "Adjustable aluminum laptop stand with built-in cooling fan. Ergonomic design to reduce neck strain and improve airflow.",
+    "images": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&h=600&fit=crop"
+    ],
+    "inStock": false
+  },
+  {
+    "Id": 5,
+    "name": "Ceramic Plant Pot Set",
+    "price": 34.99,
+    "category": "home",
+    "description": "Beautiful set of 3 ceramic plant pots with drainage holes and saucers. Perfect for indoor plants and herbs. Modern minimalist design.",
+    "images": [
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=600&h=600&fit=crop"
+    ],
+    "inStock": true
+  },
+  {
+    "Id": 6,
+    "name": "Running Shoes",
+    "price": 89.99,
+    "originalPrice": 120.00,
+    "category": "sports",
+    "description": "Lightweight running shoes with advanced cushioning technology. Breathable mesh upper and durable rubber outsole for all-terrain running.",
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?w=600&h=600&fit=crop"
+    ],
+    "inStock": true
+  },
+  {
+    "Id": 7,
+    "name": "Coffee Table Book Collection",
+    "price": 45.99,
+    "category": "books",
+    "description": "Beautiful collection of photography and art books. Perfect for coffee tables and inspiring conversations. High-quality printing and binding.",
+    "images": [
+      "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=600&fit=crop"
+    ],
+    "inStock": true
+  },
+  {
+    "Id": 8,
+    "name": "Wireless Charging Pad",
+    "price": 29.99,
+    "category": "electronics",
+    "description": "Fast wireless charging pad compatible with all Qi-enabled devices. Sleek design with LED indicator and overcharge protection.",
+    "images": [
+      "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=600&h=600&fit=crop"
+    ],
+    "inStock": true
+  },
+  {
+    "Id": 9,
+    "name": "Denim Jacket",
+    "price": 59.99,
+    "category": "clothing",
+    "description": "Classic denim jacket with a modern fit. Made from premium denim with subtle distressing. Perfect for layering in any season.",
+    "images": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=600&h=600&fit=crop"
+    ],
+    "inStock": true
+  },
+  {
+    "Id": 10,
+    "name": "Kitchen Knife Set",
+    "price": 79.99,
+    "originalPrice": 99.99,
+    "category": "home",
+    "description": "Professional 6-piece kitchen knife set with wooden block. High-carbon stainless steel blades with ergonomic handles.",
+    "images": [
+      "https://images.unsplash.com/photo-1593618998160-e34014e67546?w=600&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=600&fit=crop"
+    ],
+    "inStock": true
+  },
+  {
+    "Id": 11,
+    "name": "Yoga Mat Premium",
+    "price": 39.99,
+    "category": "sports",
+    "description": "Non-slip premium yoga mat with extra cushioning. Eco-friendly materials with carrying strap included. Perfect for all yoga practices.",
+    "images": [
+      "https://images.unsplash.com/photo-1506629905607-0e2fb52b0e54?w=600&h=600&fit=crop"
+    ],
+    "inStock": true
+  },
+  {
+    "Id": 12,
+    "name": "Programming Guide Book",
+    "price": 32.99,
+    "category": "books",
+    "description": "Comprehensive guide to modern programming languages and best practices. Perfect for beginners and experienced developers alike.",
+    "images": [
+      "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=600&h=600&fit=crop"
+    ],
+    "inStock": true
+  },
+  {
+    "Id": 13,
+    "name": "Smartphone Camera Lens Kit",
+    "price": 24.99,
+    "category": "electronics",
+    "description": "Professional camera lens kit for smartphones. Includes wide-angle, macro, and fisheye lenses with carrying case.",
+    "images": [
+      "https://images.unsplash.com/photo-1512499617640-c2f999943e90?w=600&h=600&fit=crop"
+    ],
+    "inStock": true
+  },
+  {
+    "Id": 14,
+    "name": "Wool Sweater",
+    "price": 69.99,
+    "originalPrice": 89.99,
+    "category": "clothing",
+    "description": "Cozy merino wool sweater with cable knit pattern. Soft, warm, and breathable. Perfect for cold weather styling.",
+    "images": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=600&h=600&fit=crop"
+    ],
+    "inStock": true
+  },
+  {
+    "Id": 15,
+    "name": "LED String Lights",
+    "price": 19.99,
+    "category": "home",
+    "description": "Warm white LED string lights perfect for creating ambient lighting. Waterproof design suitable for indoor and outdoor use.",
+    "images": [
+      "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=600&h=600&fit=crop"
+    ],
+    "inStock": true
+  },
+  {
+    "Id": 16,
+    "name": "Basketball",
+    "price": 29.99,
+    "category": "sports",
+    "description": "Official size and weight basketball with premium composite leather. Deep channel design for superior grip and control.",
+    "images": [
+      "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=600&h=600&fit=crop"
+    ],
+    "inStock": true
+  }
+]
